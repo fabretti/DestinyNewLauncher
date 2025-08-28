@@ -135,7 +135,6 @@ const buyVip = () => {
       align-items: center;
       gap: 12px;
       margin-top: 20px;
-      margin-left: 10px;
       .menu-item {
         display: flex;
         align-items: center;
@@ -185,7 +184,7 @@ const buyVip = () => {
 
     .home-left__swiper {
       margin-top: 20px;
-
+      display: flex;
       .video-block {
         display: flex;
         flex-direction: column;
