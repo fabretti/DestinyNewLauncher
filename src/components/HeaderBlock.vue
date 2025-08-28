@@ -50,6 +50,7 @@ const navItems = [
     align-items: center;
     justify-content: space-between;
     margin: 0 auto;
+    padding: 0 66px;
   }
   .nav-list {
     height: 100%;
