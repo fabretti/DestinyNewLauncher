@@ -66,12 +66,6 @@ const navItems = [
       transition: opacity 0.2s;
       border-right: 0.5px solid rgba(255, 255, 255, 0.2);
       padding-right: 32px;
-      .router-link-active {
-        span {
-          text-decoration: underline;
-          text-underline-offset: 10px;
-        }
-      }
     }
   }
   .online-info {
